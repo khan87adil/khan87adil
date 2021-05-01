@@ -5,5 +5,5 @@
 ## 🔭 I’m currently working on iSmile Technologies. 
 ## 🌱 I’m currently learning Data Science.
 ## My linkedin Profile https://www.linkedin.com/in/adil07khan/
-## I am having 5 year of experience in Teaching mathematics and Statistics.
+## I am having 5 year of experience in Teaching (mathematics and Statistics).
 ## ask me about : Python,Machine Learning,Statistics,Deployment,NLP.
