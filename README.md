@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My Profile
-*** MOHAMMAD ADIL KHAN ***
+# MOHAMMAD ADIL KHAN 
 ## 🔭 I’m currently working on iSmile Technologies. 
 ## 🌱 I’m currently learning Data Science.
 ## My link Profile https://www.linkedin.com/in/adil07khan/
